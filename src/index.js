@@ -13,6 +13,13 @@ ReactDOM.render(
       <li>Bora Bora</li>
       <li>Maldives</li>
     </ul>
+
+      <h1>Favorite Food</h1>
+      <ul>
+        <li>Grouper</li>
+        <li>Mahi Mahi</li>
+        <li>Crabcakes</li>
+      </ul>
   </div>,
   document.getElementById("root")
 );
